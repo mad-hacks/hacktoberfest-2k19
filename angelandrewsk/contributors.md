@@ -1,1 +1,1 @@
-This is some content.
+Completed Hacktoberfest challenge.
